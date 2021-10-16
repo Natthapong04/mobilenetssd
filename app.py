@@ -27,6 +27,7 @@ DOWNLOAD_FOLDER = 'static/downloads/'
 ALLOWED_EXTENSIONS = {'jpg', 'png','.jpeg'}
 
 lineaccesstoken = '62f5e2e9b6e800c69c2dd898b74aa2c8'
+
 line_bot_api = LineBotApi(lineaccesstoken)
 
 # APP CONFIGURATIONS
